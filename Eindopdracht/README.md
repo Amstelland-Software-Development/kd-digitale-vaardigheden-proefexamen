@@ -14,7 +14,7 @@
 4. Lukt het niet het proefexamen te halen of haalde je hem maar net oefen dan de hoofdstukken die je nog onvoldoende beheerst.  
 1. Ga naar het tabblad [Rapport - 0-metingen en toetsen](https://digit-mbo.nl/student/results/toetsen/1/). 
 2. Klik op de naam van het proefexamen om de resultaten te bekijken per hoofdstuk.
-4. Kijk voor welke hoofdstukken van welke kerntaken je een onvoldoende hebt (<70%)) en noteer dit op een blaadje.
+4. Kijk voor welke hoofdstukken van welke kerntaken je een onvoldoende hebt (<70%) en noteer dit op een blaadje.
 5. Ga naar de [home pagina](https://digit-mbo.nl/student/home/).
 6. Klik op de tegel van Kerntaak 1, 2 of 3.
 7. Oefen de hoofdstukken waar je een onvoldoende voor had.

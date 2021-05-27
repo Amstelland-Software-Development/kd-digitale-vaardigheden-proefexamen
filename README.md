@@ -6,7 +6,7 @@ Daarom krijgen jullie het keuzedeel Digitale Vaardigheden.
 
 >Tijdens de gehele module wordt aandacht besteed aan computervaardigheid, werken met Office, online mogelijkheden en mediawijsheid. 
 
-Dit keuzedeel wordt op 17 juni 2021 afgerond met een examen .  
+**Dit keuzedeel wordt op 17 juni 2021 afgerond met een examen.** 
 De resultaten van dit examen komen op je diploma te staan. 
 
 ## Opdrachten
@@ -18,7 +18,7 @@ De resultaten van dit examen komen op je diploma te staan.
 1. Door middel van het proefexamen kun je zien van welke hoofdstukken je nog moet oefenen.
 2. Voor digitale vaardigheden heb je meerdere eagledev modules gekregen, dit is de laatste 
 3. De eindopdracht van de modules zal bestaan uit het halen van het proefexamen.  
-5. Je moet sowieso examen doen op 17 juni 2021 ook al heb je de modules niet gehaald.
+5. **Je moet sowieso examen doen op 17 juni 2021 ook al heb je de modules niet gehaald.**
 
 ## Leerdoelden
 1. Je leert kennis en overzicht van devices, software en systemen;
